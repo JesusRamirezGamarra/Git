@@ -3,4 +3,12 @@ Vamos a utilizar este archivo para sa
     
     Si funciona el control git
 
-Tengo 37 anios naci en Lima Peru
+Tengo 38 anios naci en Lima Peru
+
+
+Footer
+
+En camara parece alto pero en realidad no es tal alto
+
+hoy es el CEO de Platzi
+hoy no soy el CTO
