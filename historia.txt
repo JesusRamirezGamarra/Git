@@ -3,7 +3,7 @@ Vamos a utilizar este archivo para sa
     
     Si funciona el control git
 
-Tengo 38 anios naci en Lima Peru
+Tengo 38 anios naci en Lima Peru , historia de su vida
 
 
 Footer
