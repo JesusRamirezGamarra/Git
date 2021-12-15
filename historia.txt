@@ -1,14 +1,5 @@
-Vamos a utilizar este archivo para sa
-    
-    
-    Si funciona el control git
+Esta es la historia de Freddy Vega
 
-Tengo 38 anios naci en Lima Peru , historia de su vida
+Freddy Vega tiene 32 años y nació en Colombia
 
-
-Footer
-
-En camara parece alto pero en realidad no es tal alto
-
-hoy es el CEO de Platzi
-hoy no soy el CTO
+Mañana nos enfocaremos en su vida laboral
